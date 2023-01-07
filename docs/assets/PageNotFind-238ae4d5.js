@@ -1,0 +1,1 @@
+import{_ as o,r as t,o as n,d as c}from"./index-83898482.js";const r={};function s(_,a){const e=t("el-empty");return n(),c(e,{description:"404 Not Find"})}const d=o(r,[["render",s]]);export{d as default};

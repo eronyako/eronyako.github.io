@@ -1,0 +1,14 @@
+{
+  "nav": [
+    {
+      "name": "主页",
+      "path": "/",
+      "icon": "Location"
+    },
+    {
+      "name": "关于",
+      "path": "/about",
+      "icon": "Box"
+    }
+  ]
+}
